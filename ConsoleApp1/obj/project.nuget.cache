@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "8AdyunavKJ9z4kW3t4+b3BgBFuaSxt5J/O7rgGCASDwg8xKKcd/Ml3h+sBbJk6DajdToKLqvQLQ21Oov+9bpwQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\paulo.hmsilva20\\source\\repos\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\paulo.hmsilva20\\.nuget\\packages\\goblinfactory.konsole\\6.2.2\\goblinfactory.konsole.6.2.2.nupkg.sha512",
+    "C:\\Users\\paulo.hmsilva20\\.nuget\\packages\\konsole\\2.0.0\\konsole.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
